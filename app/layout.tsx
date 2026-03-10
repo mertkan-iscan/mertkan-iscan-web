@@ -3,7 +3,7 @@ import './globals.css'
 export const metadata = {
   title: 'Mertkan İşcan | Özel ERP Yazılımları ve Dijital Dönüşüm Çözümleri',
   description: 'İşletmenizi büyüten özel ERP sistemleri, mobil uygulamalar ve kurumsal bilişim desteği. Teknolojiyi işiniz için basitleştiriyoruz.',
-  keywords: 'ERP yazılımı, özel yazılım geliştirme, dijital dönüşüm, Mertkan İşcan, kurumsal bilişim desteği, mobil uygulama geliştirme',
+  keywords: 'ERP yazılımı, özel yazılım geliştirme, dijital dönüşüm, Mertkan İşcan, kurumsal bilişim desteği, mobil uygulama geliştirme, mertkan işcan',
 }
 
 export default function RootLayout({
